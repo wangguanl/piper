@@ -20,3 +20,7 @@ htmlcov
 
 .venv/
 lightning_logs/
+
+# --- local runtime: models / caches / artifacts (not versioned) ---
+models/
+runtime/
